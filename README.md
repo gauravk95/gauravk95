@@ -1,12 +1,12 @@
 ## Software Architect | Mobile | Video Tech | AI | Backend
 
-Proven track record of architecting high-scale mobile applications from the ground up, including scaling social platforms to **300M+ MAUs**. Currently spearheading e-commerce initiatives projected to drive **$1.5B in upside**. Expert in **Video Tech**, **Computer Vision**, and **AR/VR**, with a focus on driving growth through deep technical innovation.
+Proven track record of architecting high-scale mobile applications from the ground up, including scaling social platforms to **300M+ MAUs**. Currently spearheading e-commerce initiatives projected to drive **$1.5B in upside**. Expertise in **Video Tech**, **Computer Vision**, and **AR/VR**, with a focus on driving growth through technical innovation.
 
 ---
 
 ### 🚀 Impact at a Glance
 
-* **Scalability**: Architected mobile infrastructure for platforms supporting **300M+ Monthly Active Users**.
+* **Scalability**: Architected mobile infrastructure for social platforms supporting **300M+ Monthly Active Users**.
 * **E-Commerce**: Leading an **Influencer Storefront** platform and replatforming initiatives, driving significant GRS and GMV growth.
 * **Video & AR**: Engineered low-latency **AR rendering pipelines** and custom **FFmpeg/JNI** configurations, reducing video latency by up to **96%**.
 * **AI Innovation**: Co-founded an **AI-native video platform**, pioneering text-to-video automation with a **10x increase in production velocity**.
@@ -28,7 +28,6 @@ Proven track record of architecting high-scale mobile applications from the grou
 * **Currently**: Architecting scalable creator-led commerce platforms and optimizing global mobile growth.
 * **Learning**: Deepening expertise in iOS, **GenAI model inference** and **Computer Vision** for real-time mobile applications.
 * **Collaborating**: Open to high-impact challenging projects involving **Backend, Video Infrastructure, AR/VR, and AI-native platforms**
-* **Leadership**: Actively mentoring engineers and leading technical governance for high-growth engineering teams.
 
 ---
 
